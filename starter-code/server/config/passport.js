@@ -24,4 +24,4 @@ module.exports = (passport) => {
       cb(null, user);
     });
   });
-}
+};
